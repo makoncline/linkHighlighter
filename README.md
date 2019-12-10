@@ -1,2 +1,3 @@
-# Javascript30 Template
-Single page website development environment with Prettier, ESLint, and airbnb formatting guidelines.
+# Follow along link highlighter
+
+Move a highlighter over links as they are hovered. Like the nav bar effect from Stripe.com. Part of the Javascript30 challenge.
